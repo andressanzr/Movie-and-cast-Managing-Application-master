@@ -1,0 +1,66 @@
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.exe.config
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.exe
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.pdb
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.xml
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.vbprojAssemblyReference.cache
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.Main.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.Resources.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.vbproj.GenerateResource.cache
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.vbproj.CoreCompileInputs.cache
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.exe
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.xml
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.pdb
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.verDatos.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.verActores.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarPeliculas.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarPersonas.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.insertarActores.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarGeneros.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.modificarRelacionesPersonas.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.insertarPeliculas.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarRoles.resources
+D:\IFP\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.modificarRelacionesPeliculas.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.exe.config
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.exe
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.pdb
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\bin\Debug\Entregable 3.xml
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.vbprojAssemblyReference.cache
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarGeneros.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarPeliculas.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarPersonas.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.gestionarRoles.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.insertarActores.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.insertarPeliculas.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.Main.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.Resources.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.modificarRelacionesPeliculas.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.modificarRelacionesPersonas.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.verActores.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable_3.verDatos.resources
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.vbproj.GenerateResource.cache
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.vbproj.CoreCompileInputs.cache
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.exe
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.xml
+D:\IFP\Primero\Bases de datos\Visual Basic\Entregable 3\Entregable 3\obj\Debug\Entregable 3.pdb
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\bin\Debug\Entregable 3.exe.config
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\bin\Debug\Entregable 3.exe
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\bin\Debug\Entregable 3.pdb
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\bin\Debug\Entregable 3.xml
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.gestionarGeneros.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.gestionarPeliculas.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.gestionarPersonas.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.gestionarRoles.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.insertarActores.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.insertarPeliculas.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.Main.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.Resources.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.modificarRelacionesPeliculas.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.modificarRelacionesPersonas.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.verActores.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable_3.verDatos.resources
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable 3.vbproj.GenerateResource.cache
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable 3.vbproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable 3.exe
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable 3.xml
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable 3.pdb
+C:\Users\andre\Downloads\Movie-and-cast-Managing-Application-master\Movie-and-cast-Managing-Application-master\Entregable 3\obj\Debug\Entregable 3.vbprojAssemblyReference.cache
